@@ -1,11 +1,11 @@
 if __name__ == '__main__':
-    a = int(input())
-    b = int(input())
+    a = int(input('Enter a Number: '))
+    b = int(input('Enter b Number: '))
     
-    addition = a+b
-    subtraction = a-b
-    multiplication = a*b
+    add = a+b
+    sub = a-b
+    multply = a*b
     
-    print(addition)
-    print(subtraction)
-    print(multiplication)
+    print(add)
+    print(sub)
+    print(multply)
